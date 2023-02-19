@@ -36,3 +36,17 @@ input {
 img {
 	max-width: 300px;
 }
+
+.myBtns {
+	height: 100px;
+	background-color: purple;
+	color: white;
+	border: none;
+	padding: 25px; 
+	font-size: 25px;
+	margin: 10px; 
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	
+}
